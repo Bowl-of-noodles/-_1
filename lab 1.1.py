@@ -1,8 +1,3 @@
-from collections import Counter
-from tabulate import tabulate
-
-#C:\Users\user\Desktop\projects\test.txt
-
 def read_file():
     while True:
         path = input("Введите путь к файлу: ").strip()
